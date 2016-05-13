@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import uk.co.placona.helloWorld.HelloWorld;
+import helloWorld.HelloWorld;
 
 public class HelloWorldTest {
 	@Test
