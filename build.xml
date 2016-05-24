@@ -5,7 +5,7 @@
   <property name="main.src.dir" value="src" />
   <property name="test.build.dir" value="build/test" />
   <property name="test.src.dir" value="test" />
-
+</project>
   <path id="classpath.base" />
 
   <path id="classpath.test">
